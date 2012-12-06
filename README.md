@@ -1,4 +1,4 @@
 Astro
 =====
 
-ray-Astro
+pku-Astro
